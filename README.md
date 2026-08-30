@@ -356,8 +356,8 @@ MOK_PASSWORD="ChangeMe123" NONINTERACTIVE=1 /usr/local/sbin/fix-vmmon.sh --enrol
 
 ### 2.6 Ansible role
 
-For fleets already under configuration management. Idempotent — safe to run
-on every check-in.
+For fleets already under configuration management. Safe to run on every
+check-in — it only changes what is not already set up.
 
 ```yaml
 # roles/vmware_vmmon/defaults/main.yml
