@@ -3,6 +3,15 @@
 # fix-vmmon.sh — Make VMware Workstation's vmmon/vmnet kernel modules load
 # on a Secure Boot system by signing them with a Machine Owner Key (MOK).
 #
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Copyright (C) 2026 learnlinuxforwork contributors
+#
+# This program is free software: you can redistribute it and/or modify it
+# under the terms of the GNU Affero General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version. It is distributed WITHOUT ANY WARRANTY. See the
+# GNU AGPL <https://www.gnu.org/licenses/> for details.
+#
 # Supported distributions:
 #   * Ubuntu — LTS releases only (26.04, 24.04, 22.04, 20.04)
 #   * Rocky Linux 8 / 9 / 10

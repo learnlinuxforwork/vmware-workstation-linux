@@ -582,4 +582,9 @@ Not supported. Standardise the lab on an LTS release.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+GNU Affero General Public License v3.0 or later (`AGPL-3.0-or-later`) — see
+[LICENSE](LICENSE). If you run a modified version of this script as part of a
+network service, the AGPL requires you to offer that service's users the
+corresponding modified source.
+
+Copyright (C) 2026 learnlinuxforwork contributors.
