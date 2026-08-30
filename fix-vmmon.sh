@@ -4,7 +4,7 @@
 # on a Secure Boot system by signing them with a Machine Owner Key (MOK).
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
-# Copyright (C) 2026 learnlinuxforwork contributors
+# Copyright (C) 2026 sheastech
 #
 # This program is free software: you can redistribute it and/or modify it
 # under the terms of the GNU Affero General Public License as published by

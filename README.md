@@ -587,4 +587,4 @@ GNU Affero General Public License v3.0 or later (`AGPL-3.0-or-later`) — see
 network service, the AGPL requires you to offer that service's users the
 corresponding modified source.
 
-Copyright (C) 2026 learnlinuxforwork contributors.
+Copyright (C) 2026 sheastech and contributors — see [AUTHORS](AUTHORS).
