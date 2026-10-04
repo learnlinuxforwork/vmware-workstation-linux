@@ -588,3 +588,10 @@ network service, the AGPL requires you to offer that service's users the
 corresponding modified source.
 
 Copyright (C) 2026 sheastech and contributors — see [AUTHORS](AUTHORS).
+
+## 💜 Support Learn Linux for Work
+
+**[Support Learn Linux for Work](https://pay.sheastech.io/b/aEU039dindBv6UU14l)**. An open source project of Shea's Tech, LLC.
+
+- 🔗 [Learn Linux for Work Linktree](https://linktr.ee/learnlinuxforwork) · [Shea's Tech Linktree](https://linktr.ee/sheastech)
+- 📜 [License (GNU AGPL v3.0 or later)](https://learnlinuxforwork.com/license) · [Terms and conditions](https://learnlinuxforwork.com/terms)
